@@ -1,0 +1,32 @@
+Exercise 1
+
+1. We prompt the user to input the first number and store it in the variable num1.
+2. We prompt the user to input the second number and store it in the variable num2.
+3. We prompt the user to input the second number and store it in the variable num2.
+4. We output the value of sum, which represents the sum of the two numbers.
+
+
+Exercise 2
+
+1. We prompt the user to input a number and store it in the variable num.
+2. We use the modulo operator % to check if num divided by 2 has a remainder of 0. If the remainder is 0, it means the number is even.
+3. If the condition in step 2 is true, we output the message "The number is even".
+4. If the condition in step 2 is false, it means the number is odd.
+5. In that case, we output the message "The number is odd".
+
+
+
+Exercise 3
+
+1. We initialize a variable called sum to 0. This variable will store the sum of the five numbers.
+2. We set minNum to infinity and maxNum to -infinity. These variables will keep track of the minimum and maximum numbers encountered.
+3. We use a loop to iterate five times since we want to read in five numbers.
+4. Within the loop, we prompt the user to input a number and store it in the variable num.
+5. We add num to the sum variable to calculate the sum of the numbers.
+6. We check if num is less than the current minimum number (minNum). If it is, we update minNum to num.
+7. We check if num is greater than the current maximum number (maxNum). If it is, we update maxNum to num.
+8. The loop repeats until we have read in five numbers.
+9. We calculate the average by dividing the sum by 5 and store it in the variable average.
+10. We output the average with an appropriate message.
+11. We output the smallest number with an appropriate message.
+12. We output the largest number with an appropriate message.
